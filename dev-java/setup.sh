@@ -9,3 +9,4 @@
 ../setup_maven.sh
 ../setup_payara_micro.sh
 ../setup_scite.sh
+../setup_zsh.sh

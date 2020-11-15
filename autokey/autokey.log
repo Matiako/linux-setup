@@ -1,0 +1,705 @@
+2020-07-08 14:09:27,688 INFO - root - Initialising application
+2020-07-08 14:09:27,697 INFO - root - Initialise global hotkeys
+2020-07-08 14:09:27,697 INFO - config-manager - No configuration found - creating new one
+2020-07-08 14:09:27,701 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:09:27,701 INFO - config-manager - Persisting configuration
+2020-07-08 14:09:27,701 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:09:27,701 INFO - service - Starting service
+2020-07-08 14:09:27,802 INFO - interface - XRecord interface thread starting
+2020-07-08 14:09:27,804 INFO - service - Service now marked as running
+2020-07-08 14:09:27,893 INFO - root - Entering main()
+2020-07-08 14:09:40,274 INFO - root - Displaying configuration window
+2020-07-08 14:13:50,526 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:13:50,539 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:13:50,539 INFO - config-manager - Persisting configuration
+2020-07-08 14:13:50,540 INFO - config-manager - Backing up existing config file
+2020-07-08 14:13:50,543 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:14:37,682 INFO - root - Initialising application
+2020-07-08 14:14:37,691 INFO - root - Initialise global hotkeys
+2020-07-08 14:14:37,691 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-08 14:14:37,693 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:14:37,694 INFO - config-manager - Successfully loaded configuration
+2020-07-08 14:14:37,694 INFO - service - Starting service
+2020-07-08 14:14:37,762 INFO - interface - XRecord interface thread starting
+2020-07-08 14:14:37,764 INFO - service - Service now marked as running
+2020-07-08 14:14:37,830 INFO - root - Entering main()
+2020-07-08 14:14:46,613 INFO - root - Displaying configuration window
+2020-07-08 14:17:22,229 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:17:46,425 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:18:13,059 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:18:39,464 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:19:00,757 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:19:32,351 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:19:48,792 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:19:52,656 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:19:52,656 INFO - config-manager - Persisting configuration
+2020-07-08 14:19:52,656 INFO - config-manager - Backing up existing config file
+2020-07-08 14:19:52,657 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:20:11,638 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:20:20,918 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:20:52,699 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:22:06,837 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:22:12,288 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:22:24,885 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:22:30,567 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:22:54,465 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:22:54,465 INFO - config-manager - Persisting configuration
+2020-07-08 14:22:54,465 INFO - config-manager - Backing up existing config file
+2020-07-08 14:22:54,466 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:23:05,839 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:23:34,555 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:23:46,468 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:24:11,638 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:24:23,854 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:24:33,602 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:24:52,271 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:25:17,168 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:25:17,168 INFO - config-manager - Persisting configuration
+2020-07-08 14:25:17,168 INFO - config-manager - Backing up existing config file
+2020-07-08 14:25:17,169 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:26:32,893 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:26:32,893 INFO - config-manager - Persisting configuration
+2020-07-08 14:26:32,893 INFO - config-manager - Backing up existing config file
+2020-07-08 14:26:32,894 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:26:47,083 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:27:14,405 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:28:51,928 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:30:25,888 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:30:30,220 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:31:20,709 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:32:12,097 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:32:12,098 INFO - config-manager - Persisting configuration
+2020-07-08 14:32:12,098 INFO - config-manager - Backing up existing config file
+2020-07-08 14:32:12,100 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:34:23,561 INFO - root - Initialising application
+2020-07-08 14:34:23,572 INFO - root - Initialise global hotkeys
+2020-07-08 14:34:23,573 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-08 14:34:23,597 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:34:23,598 INFO - config-manager - Successfully loaded configuration
+2020-07-08 14:34:23,598 INFO - service - Starting service
+2020-07-08 14:34:23,702 INFO - interface - XRecord interface thread starting
+2020-07-08 14:34:23,703 INFO - service - Service now marked as running
+2020-07-08 14:34:23,788 INFO - root - Entering main()
+2020-07-08 14:35:17,192 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:35:22,557 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:35:23,835 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:35:23,837 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+8)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:35:28,279 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:35:28,280 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+8)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:35:34,838 INFO - root - Displaying configuration window
+2020-07-08 14:35:53,267 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:35:53,268 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+8)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:37:03,691 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:37:03,691 INFO - config-manager - Persisting configuration
+2020-07-08 14:37:03,693 INFO - config-manager - Backing up existing config file
+2020-07-08 14:37:03,697 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:37:05,341 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:05,341 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+8)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:37:09,322 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:10,691 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:13,017 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:17,608 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:18,094 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:18,099 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+8)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:37:18,495 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:18,496 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+7)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:37:20,263 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:20,744 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:21,160 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:21,522 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:25,476 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:25,476 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+7)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:37:26,209 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:26,210 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+7)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:37:26,782 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:26,783 ERROR - service - Script error
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/autokey/service.py", line 454, in execute
+    exec script.code in scope
+  File "<string>", line 2
+    keyboard.send_keys("<alt_gr>+8)
+                                  ^
+SyntaxError: EOL while scanning string literal
+2020-07-08 14:37:27,560 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:37:39,891 INFO - root - Displaying configuration window
+2020-07-08 14:37:47,591 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:37:47,591 INFO - config-manager - Persisting configuration
+2020-07-08 14:37:47,591 INFO - config-manager - Backing up existing config file
+2020-07-08 14:37:47,592 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:37:50,570 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:37:50,571 INFO - config-manager - Persisting configuration
+2020-07-08 14:37:50,571 INFO - config-manager - Backing up existing config file
+2020-07-08 14:37:50,573 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:37:59,649 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:00,425 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:01,113 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:03,384 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:05,678 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:09,533 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:12,930 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:18,480 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:38:50,059 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:38:53,548 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-08 14:39:17,601 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:39:29,749 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-08 14:39:29,749 INFO - config-manager - Persisting configuration
+2020-07-08 14:39:29,750 INFO - config-manager - Backing up existing config file
+2020-07-08 14:39:29,751 INFO - config-manager - Finished persisting configuration - no errors
+2020-07-08 14:39:32,707 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 03:56:20,434 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 03:56:26,116 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 03:56:36,393 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 04:24:19,712 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 04:26:14,664 INFO - root - Initialising application
+2020-07-09 04:26:14,676 INFO - root - Initialise global hotkeys
+2020-07-09 04:26:14,676 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-09 04:26:14,699 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-09 04:26:14,700 INFO - config-manager - Successfully loaded configuration
+2020-07-09 04:26:14,700 INFO - service - Starting service
+2020-07-09 04:26:14,782 INFO - interface - XRecord interface thread starting
+2020-07-09 04:26:14,783 INFO - service - Service now marked as running
+2020-07-09 04:26:14,874 INFO - root - Entering main()
+2020-07-09 05:46:26,240 INFO - root - Initialising application
+2020-07-09 05:46:26,255 INFO - root - Initialise global hotkeys
+2020-07-09 05:46:26,255 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-09 05:46:26,304 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-09 05:46:26,305 INFO - config-manager - Successfully loaded configuration
+2020-07-09 05:46:26,305 INFO - service - Starting service
+2020-07-09 05:46:26,448 INFO - interface - XRecord interface thread starting
+2020-07-09 05:46:26,454 INFO - service - Service now marked as running
+2020-07-09 05:46:26,558 INFO - root - Entering main()
+2020-07-09 06:42:06,676 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 06:48:27,869 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 07:15:09,637 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 07:20:22,645 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 07:49:37,893 INFO - root - Initialising application
+2020-07-09 07:49:37,937 INFO - root - Initialise global hotkeys
+2020-07-09 07:49:37,937 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-09 07:49:37,966 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-09 07:49:37,967 INFO - config-manager - Successfully loaded configuration
+2020-07-09 07:49:37,967 INFO - service - Starting service
+2020-07-09 07:49:38,145 INFO - interface - XRecord interface thread starting
+2020-07-09 07:49:38,149 INFO - service - Service now marked as running
+2020-07-09 07:49:38,240 INFO - root - Entering main()
+2020-07-09 07:55:09,944 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 07:58:58,913 INFO - root - Initialising application
+2020-07-09 07:58:59,000 INFO - root - Initialise global hotkeys
+2020-07-09 07:58:59,000 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-09 07:58:59,092 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-09 07:58:59,093 INFO - config-manager - Successfully loaded configuration
+2020-07-09 07:58:59,093 INFO - service - Starting service
+2020-07-09 07:58:59,198 INFO - service - Service now marked as running
+2020-07-09 07:58:59,200 INFO - interface - XRecord interface thread starting
+2020-07-09 07:58:59,289 INFO - root - Entering main()
+2020-07-09 08:03:52,817 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 08:45:55,803 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 08:46:05,751 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 08:46:30,374 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 08:46:42,281 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-09 09:41:39,654 INFO - root - Initialising application
+2020-07-09 09:41:39,694 INFO - root - Initialise global hotkeys
+2020-07-09 09:41:39,694 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-09 09:41:39,756 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-09 09:41:39,757 INFO - config-manager - Successfully loaded configuration
+2020-07-09 09:41:39,757 INFO - service - Starting service
+2020-07-09 09:41:39,863 INFO - interface - XRecord interface thread starting
+2020-07-09 09:41:39,864 INFO - service - Service now marked as running
+2020-07-09 09:41:39,973 INFO - root - Entering main()
+2020-07-09 10:23:01,348 INFO - root - Initialising application
+2020-07-09 10:23:01,358 INFO - root - Initialise global hotkeys
+2020-07-09 10:23:01,358 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-09 10:23:01,390 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-09 10:23:01,391 INFO - config-manager - Successfully loaded configuration
+2020-07-09 10:23:01,391 INFO - service - Starting service
+2020-07-09 10:23:01,540 INFO - interface - XRecord interface thread starting
+2020-07-09 10:23:01,541 INFO - service - Service now marked as running
+2020-07-09 10:23:01,637 INFO - root - Entering main()
+2020-07-12 05:25:55,185 INFO - root - Initialising application
+2020-07-12 05:25:55,205 INFO - root - Initialise global hotkeys
+2020-07-12 05:25:55,205 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-12 05:25:55,235 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-12 05:25:55,236 INFO - config-manager - Successfully loaded configuration
+2020-07-12 05:25:55,236 INFO - service - Starting service
+2020-07-12 05:25:55,390 INFO - interface - XRecord interface thread starting
+2020-07-12 05:25:55,391 INFO - service - Service now marked as running
+2020-07-12 05:25:55,497 INFO - root - Entering main()
+2020-07-13 05:16:09,887 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-14 03:11:17,590 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-14 06:26:34,532 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-14 14:06:06,935 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-14 14:25:16,911 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-14 14:28:52,162 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-14 22:13:45,628 INFO - root - Initialising application
+2020-07-14 22:13:45,641 INFO - root - Initialise global hotkeys
+2020-07-14 22:13:45,642 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-14 22:13:45,687 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-14 22:13:45,689 INFO - config-manager - Successfully loaded configuration
+2020-07-14 22:13:45,690 INFO - service - Starting service
+2020-07-14 22:13:46,348 INFO - interface - XRecord interface thread starting
+2020-07-14 22:13:46,355 INFO - service - Service now marked as running
+2020-07-14 22:13:46,441 INFO - root - Entering main()
+2020-07-14 23:29:19,053 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-15 05:08:03,615 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-15 21:39:37,479 INFO - root - Initialising application
+2020-07-15 21:39:37,494 INFO - root - Initialise global hotkeys
+2020-07-15 21:39:37,495 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-15 21:39:37,529 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-15 21:39:37,530 INFO - config-manager - Successfully loaded configuration
+2020-07-15 21:39:37,530 INFO - service - Starting service
+2020-07-15 21:39:37,671 INFO - service - Service now marked as running
+2020-07-15 21:39:37,672 INFO - interface - XRecord interface thread starting
+2020-07-15 21:39:37,756 INFO - root - Entering main()
+2020-07-15 23:46:14,108 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-16 01:30:08,643 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-16 01:35:30,086 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-16 01:35:36,810 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-16 01:36:02,097 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-16 03:15:43,799 INFO - root - Initialising application
+2020-07-16 03:15:43,818 INFO - root - Initialise global hotkeys
+2020-07-16 03:15:43,818 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-16 03:15:43,898 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-16 03:15:43,899 INFO - config-manager - Successfully loaded configuration
+2020-07-16 03:15:43,899 INFO - service - Starting service
+2020-07-16 03:15:43,988 INFO - interface - XRecord interface thread starting
+2020-07-16 03:15:43,989 INFO - service - Service now marked as running
+2020-07-16 03:15:44,067 INFO - root - Entering main()
+2020-07-16 23:49:56,136 INFO - root - Initialising application
+2020-07-16 23:49:56,162 INFO - root - Initialise global hotkeys
+2020-07-16 23:49:56,162 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-16 23:49:56,253 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-16 23:49:56,253 INFO - config-manager - Successfully loaded configuration
+2020-07-16 23:49:56,254 INFO - service - Starting service
+2020-07-16 23:49:57,002 INFO - interface - XRecord interface thread starting
+2020-07-16 23:49:57,010 INFO - service - Service now marked as running
+2020-07-16 23:49:57,188 INFO - root - Entering main()
+2020-07-17 06:24:06,424 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-17 06:27:44,910 INFO - root - Initialising application
+2020-07-17 06:27:44,921 INFO - root - Initialise global hotkeys
+2020-07-17 06:27:44,922 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-17 06:27:44,947 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-17 06:27:44,947 INFO - config-manager - Successfully loaded configuration
+2020-07-17 06:27:44,948 INFO - service - Starting service
+2020-07-17 06:27:45,064 INFO - interface - XRecord interface thread starting
+2020-07-17 06:27:45,065 INFO - service - Service now marked as running
+2020-07-17 06:27:45,161 INFO - root - Entering main()
+2020-07-19 03:17:08,819 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-19 03:18:29,264 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-19 04:00:49,318 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-19 04:00:54,575 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-20 06:08:39,040 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-20 06:53:22,099 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-20 23:44:45,326 INFO - root - Initialising application
+2020-07-20 23:44:45,336 INFO - root - Initialise global hotkeys
+2020-07-20 23:44:45,336 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-20 23:44:45,359 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-20 23:44:45,359 INFO - config-manager - Successfully loaded configuration
+2020-07-20 23:44:45,359 INFO - service - Starting service
+2020-07-20 23:44:45,459 INFO - interface - XRecord interface thread starting
+2020-07-20 23:44:45,460 INFO - service - Service now marked as running
+2020-07-20 23:44:45,577 INFO - root - Entering main()
+2020-07-21 01:47:00,303 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-23 01:42:22,547 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-23 02:00:56,795 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-23 02:12:52,651 INFO - root - Initialising application
+2020-07-23 02:12:52,696 INFO - root - Initialise global hotkeys
+2020-07-23 02:12:52,698 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-23 02:12:52,825 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-23 02:12:52,825 INFO - config-manager - Successfully loaded configuration
+2020-07-23 02:12:52,826 INFO - service - Starting service
+2020-07-23 02:12:53,133 INFO - service - Service now marked as running
+2020-07-23 02:12:53,146 INFO - interface - XRecord interface thread starting
+2020-07-23 02:12:53,514 INFO - root - Entering main()
+2020-07-23 02:21:22,608 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-23 02:21:30,788 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-23 03:43:32,796 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-24 01:13:28,826 INFO - root - Initialising application
+2020-07-24 01:13:28,860 INFO - root - Initialise global hotkeys
+2020-07-24 01:13:28,860 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-07-24 01:13:28,948 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-07-24 01:13:28,948 INFO - config-manager - Successfully loaded configuration
+2020-07-24 01:13:28,948 INFO - service - Starting service
+2020-07-24 01:13:29,209 INFO - interface - XRecord interface thread starting
+2020-07-24 01:13:29,215 INFO - service - Service now marked as running
+2020-07-24 01:13:29,359 INFO - root - Entering main()
+2020-07-26 22:27:23,184 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-27 01:09:25,984 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-27 01:09:29,199 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-27 01:21:45,437 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-27 02:11:18,760 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-27 03:35:02,222 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-27 03:38:07,300 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-27 22:43:57,321 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-28 04:38:50,861 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-28 04:38:51,395 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-28 05:29:48,822 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-28 05:30:34,383 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-28 09:18:48,052 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-07-28 22:56:11,948 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-03 05:07:33,434 INFO - root - Initialising application
+2020-08-03 05:07:33,448 INFO - root - Initialise global hotkeys
+2020-08-03 05:07:33,448 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-08-03 05:07:33,480 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-08-03 05:07:33,480 INFO - config-manager - Successfully loaded configuration
+2020-08-03 05:07:33,481 INFO - service - Starting service
+2020-08-03 05:07:32,970 INFO - interface - XRecord interface thread starting
+2020-08-03 05:07:32,979 INFO - service - Service now marked as running
+2020-08-03 05:07:33,107 INFO - root - Entering main()
+2020-08-03 05:35:48,733 INFO - root - Initialising application
+2020-08-03 05:35:48,743 INFO - root - Initialise global hotkeys
+2020-08-03 05:35:48,744 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-08-03 05:35:48,767 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-08-03 05:35:48,767 INFO - config-manager - Successfully loaded configuration
+2020-08-03 05:35:48,768 INFO - service - Starting service
+2020-08-03 05:35:48,977 INFO - interface - XRecord interface thread starting
+2020-08-03 05:35:48,979 INFO - service - Service now marked as running
+2020-08-03 05:35:49,073 INFO - root - Entering main()
+2020-08-03 06:26:37,753 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-03 06:26:43,437 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-03 06:31:50,716 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-03 06:40:03,666 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-04 02:43:51,123 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-04 02:46:09,089 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-04 03:09:49,648 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-04 22:33:44,265 INFO - root - Initialising application
+2020-08-04 22:33:44,279 INFO - root - Initialise global hotkeys
+2020-08-04 22:33:44,279 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-08-04 22:33:44,317 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-08-04 22:33:44,317 INFO - config-manager - Successfully loaded configuration
+2020-08-04 22:33:44,317 INFO - service - Starting service
+2020-08-04 22:33:44,526 INFO - service - Service now marked as running
+2020-08-04 22:33:44,528 INFO - interface - XRecord interface thread starting
+2020-08-04 22:33:44,631 INFO - root - Entering main()
+2020-08-07 01:15:25,946 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-07 01:15:29,333 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-07 01:15:32,600 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-07 03:33:43,236 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-10 03:33:11,699 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-10 03:41:57,973 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-10 05:53:27,446 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-10 05:53:31,983 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-10 06:12:01,613 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-10 22:35:49,679 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-10 23:57:35,490 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-11 01:09:19,701 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-11 02:04:26,785 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-14 01:23:47,092 INFO - root - Initialising application
+2020-08-14 01:23:47,116 INFO - root - Initialise global hotkeys
+2020-08-14 01:23:47,117 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-08-14 01:23:47,241 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-08-14 01:23:47,242 INFO - config-manager - Successfully loaded configuration
+2020-08-14 01:23:47,242 INFO - service - Starting service
+2020-08-14 01:23:47,480 INFO - interface - XRecord interface thread starting
+2020-08-14 01:23:47,481 INFO - service - Service now marked as running
+2020-08-14 01:23:47,665 INFO - root - Entering main()
+2020-08-14 02:42:49,723 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-14 05:05:55,061 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:53:49,278 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:54:04,271 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:54:06,357 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:54:07,245 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:54:07,247 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:54:08,496 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:54:45,999 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 05:56:31,972 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 08:31:17,800 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 08:31:19,861 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 08:31:21,834 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-15 09:25:03,250 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 03:18:45,955 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 04:16:02,011 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 04:16:03,972 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 04:21:02,533 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 04:21:04,355 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 04:40:08,558 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 05:29:07,912 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 07:21:01,105 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 07:21:01,731 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-08-16 08:03:43,900 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-02 00:48:22,716 INFO - root - Initialising application
+2020-09-02 00:48:22,731 INFO - root - Initialise global hotkeys
+2020-09-02 00:48:22,731 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-02 00:48:22,768 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-02 00:48:22,768 INFO - config-manager - Successfully loaded configuration
+2020-09-02 00:48:22,769 INFO - service - Starting service
+2020-09-02 00:48:23,429 INFO - interface - XRecord interface thread starting
+2020-09-02 00:48:23,430 INFO - service - Service now marked as running
+2020-09-02 00:48:23,565 INFO - root - Entering main()
+2020-09-02 23:14:42,605 INFO - root - Initialising application
+2020-09-02 23:14:42,630 INFO - root - Initialise global hotkeys
+2020-09-02 23:14:42,630 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-02 23:14:42,688 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-02 23:14:42,689 INFO - config-manager - Successfully loaded configuration
+2020-09-02 23:14:42,689 INFO - service - Starting service
+2020-09-02 23:14:42,937 INFO - interface - XRecord interface thread starting
+2020-09-02 23:14:42,939 INFO - service - Service now marked as running
+2020-09-02 23:14:43,083 INFO - root - Entering main()
+2020-09-04 00:43:48,452 INFO - root - Initialising application
+2020-09-04 00:43:48,516 INFO - root - Initialise global hotkeys
+2020-09-04 00:43:48,518 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-04 00:43:48,713 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-04 00:43:48,714 INFO - config-manager - Successfully loaded configuration
+2020-09-04 00:43:48,714 INFO - service - Starting service
+2020-09-04 00:43:48,987 INFO - interface - XRecord interface thread starting
+2020-09-04 00:43:48,999 INFO - service - Service now marked as running
+2020-09-04 00:43:49,242 INFO - root - Entering main()
+2020-09-04 01:22:09,987 INFO - root - Initialising application
+2020-09-04 01:22:10,004 INFO - root - Initialise global hotkeys
+2020-09-04 01:22:10,004 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-04 01:22:10,029 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-04 01:22:10,030 INFO - config-manager - Successfully loaded configuration
+2020-09-04 01:22:10,030 INFO - service - Starting service
+2020-09-04 01:22:10,271 INFO - interface - XRecord interface thread starting
+2020-09-04 01:22:10,275 INFO - service - Service now marked as running
+2020-09-04 01:22:10,433 INFO - root - Entering main()
+2020-09-04 02:01:16,636 INFO - root - Initialising application
+2020-09-04 02:01:16,649 INFO - root - Initialise global hotkeys
+2020-09-04 02:01:16,650 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-04 02:01:16,789 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-04 02:01:16,790 INFO - config-manager - Successfully loaded configuration
+2020-09-04 02:01:16,791 INFO - service - Starting service
+2020-09-04 02:01:17,038 INFO - interface - XRecord interface thread starting
+2020-09-04 02:01:17,040 INFO - service - Service now marked as running
+2020-09-04 02:01:17,216 INFO - root - Entering main()
+2020-09-04 02:35:39,174 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-06 22:00:37,794 INFO - root - Initialising application
+2020-09-06 22:00:37,805 INFO - root - Initialise global hotkeys
+2020-09-06 22:00:37,806 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-06 22:00:37,857 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-06 22:00:37,858 INFO - config-manager - Successfully loaded configuration
+2020-09-06 22:00:37,858 INFO - service - Starting service
+2020-09-06 22:00:38,094 INFO - interface - XRecord interface thread starting
+2020-09-06 22:00:38,095 INFO - service - Service now marked as running
+2020-09-06 22:00:38,210 INFO - root - Entering main()
+2020-09-07 01:41:56,062 INFO - root - Initialising application
+2020-09-07 01:41:56,079 INFO - root - Initialise global hotkeys
+2020-09-07 01:41:56,080 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-07 01:41:56,153 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-07 01:41:56,154 INFO - config-manager - Successfully loaded configuration
+2020-09-07 01:41:56,154 INFO - service - Starting service
+2020-09-07 01:41:59,305 INFO - interface - XRecord interface thread starting
+2020-09-07 01:41:59,305 INFO - service - Service now marked as running
+2020-09-07 01:41:59,413 INFO - root - Entering main()
+2020-09-07 03:38:29,865 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-07 05:09:09,545 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-07 05:09:11,373 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-07 05:09:13,971 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-07 05:26:46,803 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-07 23:47:43,677 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-07 23:47:45,411 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-07 23:55:56,752 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-08 01:27:44,136 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-08 01:41:59,525 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-08 01:42:05,143 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-13 23:30:22,511 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-13 23:31:07,275 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-14 00:04:41,743 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-14 00:25:06,109 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-14 00:36:02,557 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-14 00:37:28,738 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-14 01:46:51,252 INFO - root - Initialising application
+2020-09-14 01:46:51,263 INFO - root - Initialise global hotkeys
+2020-09-14 01:46:51,263 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-14 01:46:51,407 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-14 01:46:51,408 INFO - config-manager - Successfully loaded configuration
+2020-09-14 01:46:51,408 INFO - service - Starting service
+2020-09-14 01:46:51,543 INFO - interface - XRecord interface thread starting
+2020-09-14 01:46:51,553 INFO - service - Service now marked as running
+2020-09-14 01:46:51,644 INFO - root - Entering main()
+2020-09-15 01:21:41,493 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-15 01:23:26,454 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-15 01:23:26,471 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-15 01:35:45,121 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-16 02:34:26,649 INFO - root - Initialising application
+2020-09-16 02:34:26,676 INFO - root - Initialise global hotkeys
+2020-09-16 02:34:26,676 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-16 02:34:26,712 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-16 02:34:26,713 INFO - config-manager - Successfully loaded configuration
+2020-09-16 02:34:26,713 INFO - service - Starting service
+2020-09-16 02:34:27,097 INFO - interface - XRecord interface thread starting
+2020-09-16 02:34:27,097 INFO - service - Service now marked as running
+2020-09-16 02:34:27,202 INFO - root - Entering main()
+2020-09-17 02:04:36,709 INFO - root - Initialising application
+2020-09-17 02:04:36,737 INFO - root - Initialise global hotkeys
+2020-09-17 02:04:36,737 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-17 02:04:36,804 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-17 02:04:36,804 INFO - config-manager - Successfully loaded configuration
+2020-09-17 02:04:36,805 INFO - service - Starting service
+2020-09-17 02:04:37,005 INFO - service - Service now marked as running
+2020-09-17 02:04:37,006 INFO - interface - XRecord interface thread starting
+2020-09-17 02:04:37,608 INFO - root - Entering main()
+2020-09-17 05:58:58,252 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-18 05:25:39,884 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 03:48:45,281 INFO - root - Initialising application
+2020-09-21 03:48:45,293 INFO - root - Initialise global hotkeys
+2020-09-21 03:48:45,293 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-21 03:48:45,470 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-21 03:48:45,471 INFO - config-manager - Successfully loaded configuration
+2020-09-21 03:48:45,471 INFO - service - Starting service
+2020-09-21 03:48:45,594 INFO - interface - XRecord interface thread starting
+2020-09-21 03:48:45,595 INFO - service - Service now marked as running
+2020-09-21 03:48:45,691 INFO - root - Entering main()
+2020-09-21 06:02:17,136 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 06:02:35,320 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 06:02:38,811 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 06:02:38,834 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 06:02:41,515 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 06:15:12,155 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 06:15:46,181 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-21 23:10:46,491 INFO - root - Initialising application
+2020-09-21 23:10:46,506 INFO - root - Initialise global hotkeys
+2020-09-21 23:10:46,506 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-21 23:10:46,560 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-21 23:10:46,561 INFO - config-manager - Successfully loaded configuration
+2020-09-21 23:10:46,561 INFO - service - Starting service
+2020-09-21 23:10:47,010 INFO - interface - XRecord interface thread starting
+2020-09-21 23:10:47,011 INFO - service - Service now marked as running
+2020-09-21 23:10:47,105 INFO - root - Entering main()
+2020-09-22 01:21:46,654 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-22 01:21:46,743 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-22 05:24:35,536 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-22 05:26:06,127 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-23 02:56:01,564 INFO - root - Initialising application
+2020-09-23 02:56:01,580 INFO - root - Initialise global hotkeys
+2020-09-23 02:56:01,580 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-23 02:56:01,667 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-23 02:56:01,668 INFO - config-manager - Successfully loaded configuration
+2020-09-23 02:56:01,668 INFO - service - Starting service
+2020-09-23 02:56:01,951 INFO - interface - XRecord interface thread starting
+2020-09-23 02:56:01,956 INFO - service - Service now marked as running
+2020-09-23 02:56:02,067 INFO - root - Entering main()
+2020-09-23 05:08:30,449 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-23 23:16:00,010 INFO - root - Initialising application
+2020-09-23 23:16:00,046 INFO - root - Initialise global hotkeys
+2020-09-23 23:16:00,047 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-23 23:16:00,158 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-23 23:16:00,161 INFO - config-manager - Successfully loaded configuration
+2020-09-23 23:16:00,161 INFO - service - Starting service
+2020-09-23 23:16:00,668 INFO - interface - XRecord interface thread starting
+2020-09-23 23:16:00,673 INFO - service - Service now marked as running
+2020-09-23 23:16:00,876 INFO - root - Entering main()
+2020-09-25 02:27:56,997 INFO - root - Initialising application
+2020-09-25 02:27:57,008 INFO - root - Initialise global hotkeys
+2020-09-25 02:27:57,008 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-25 02:27:57,084 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-25 02:27:57,085 INFO - config-manager - Successfully loaded configuration
+2020-09-25 02:27:57,085 INFO - service - Starting service
+2020-09-25 02:27:57,208 INFO - interface - XRecord interface thread starting
+2020-09-25 02:27:57,356 INFO - service - Service now marked as running
+2020-09-25 02:27:57,470 INFO - root - Entering main()
+2020-09-28 06:13:10,048 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-29 01:09:48,777 INFO - root - Initialising application
+2020-09-29 01:09:48,787 INFO - root - Initialise global hotkeys
+2020-09-29 01:09:48,788 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-09-29 01:09:48,862 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-09-29 01:09:48,862 INFO - config-manager - Successfully loaded configuration
+2020-09-29 01:09:48,863 INFO - service - Starting service
+2020-09-29 01:09:49,121 INFO - interface - XRecord interface thread starting
+2020-09-29 01:09:49,123 INFO - service - Service now marked as running
+2020-09-29 01:09:49,247 INFO - root - Entering main()
+2020-09-29 04:46:04,488 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-29 04:46:07,770 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-29 23:45:52,447 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-29 23:47:28,427 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-29 23:47:28,481 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-09-29 23:47:40,031 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-10-01 03:21:00,638 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-10-01 03:44:39,798 INFO - root - Initialising application
+2020-10-01 03:44:39,834 INFO - root - Initialise global hotkeys
+2020-10-01 03:44:39,835 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-10-01 03:44:40,025 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-10-01 03:44:40,026 INFO - config-manager - Successfully loaded configuration
+2020-10-01 03:44:40,026 INFO - service - Starting service
+2020-10-01 03:44:40,245 INFO - interface - XRecord interface thread starting
+2020-10-01 03:44:40,247 INFO - service - Service now marked as running
+2020-10-01 03:44:40,448 INFO - root - Entering main()
+2020-10-01 22:23:13,265 INFO - root - Initialising application
+2020-10-01 22:23:13,298 INFO - root - Initialise global hotkeys
+2020-10-01 22:23:13,301 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-10-01 22:23:13,364 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-10-01 22:23:13,364 INFO - config-manager - Successfully loaded configuration
+2020-10-01 22:23:13,365 INFO - service - Starting service
+2020-10-01 22:23:13,441 INFO - interface - XRecord interface thread starting
+2020-10-01 22:23:13,441 INFO - service - Service now marked as running
+2020-10-01 22:23:13,582 INFO - root - Entering main()
+2020-10-02 01:45:32,775 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-10-02 02:19:46,756 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-10-02 02:49:46,230 INFO - service - Matched hotkey phrase/script with prompt=False
+2020-10-04 00:14:14,257 INFO - root - Initialising application
+2020-10-04 00:14:14,367 INFO - root - Initialise global hotkeys
+2020-10-04 00:14:14,368 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-10-04 00:14:14,847 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-10-04 00:14:14,848 INFO - config-manager - Successfully loaded configuration
+2020-10-04 00:14:14,848 INFO - service - Starting service
+2020-10-04 00:14:15,228 INFO - interface - XRecord interface thread starting
+2020-10-04 00:14:15,230 INFO - service - Service now marked as running
+2020-10-04 00:14:15,385 INFO - root - Entering main()
+2020-11-11 07:21:44,196 INFO - root - Initialising application
+2020-11-11 07:21:44,246 INFO - root - Initialise global hotkeys
+2020-11-11 07:21:44,250 INFO - config-manager - Loading config from existing file: /home/vagrant/.config/autokey/autokey.json
+2020-11-11 07:21:44,515 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-11-11 07:21:44,517 INFO - config-manager - Successfully loaded configuration
+2020-11-11 07:21:44,517 INFO - service - Starting service
+2020-11-11 07:21:44,935 INFO - interface - XRecord interface thread starting
+2020-11-11 07:21:44,939 INFO - service - Service now marked as running
+2020-11-11 07:21:45,196 INFO - root - Entering main()
+2020-11-15 07:28:41,532 INFO - root - Displaying configuration window
+2020-11-15 07:29:11,406 INFO - config-manager - Configuration changed - rebuilding in-memory structures
+2020-11-15 07:29:11,407 INFO - config-manager - Persisting configuration
+2020-11-15 07:29:11,407 INFO - config-manager - Backing up existing config file
+2020-11-15 07:29:11,409 INFO - config-manager - Finished persisting configuration - no errors

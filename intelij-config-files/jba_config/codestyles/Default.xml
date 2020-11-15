@@ -1,0 +1,20 @@
+<code_scheme name="Default" version="173">
+  <option name="AUTODETECT_INDENTS" value="false" />
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="25" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="21" />
+    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
+      <value>
+        <package name="java.awt" withSubpackages="false" static="false" />
+        <package name="org.junit.Assert" withSubpackages="true" static="true" />
+        <package name="org.mockito.BDDMockito" withSubpackages="true" static="true" />
+        <package name="org.mockito.Mockito" withSubpackages="true" static="true" />
+        <package name="org.hamcrest.Matchers" withSubpackages="true" static="true" />
+        <package name="javax.swing" withSubpackages="false" static="false" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
+  <codeStyleSettings language="JAVA">
+    <option name="WRAP_LONG_LINES" value="true" />
+  </codeStyleSettings>
+</code_scheme>

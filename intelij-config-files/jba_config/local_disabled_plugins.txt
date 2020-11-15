@@ -1,0 +1,15 @@
+com.alayouni.ansiHighlight
+com.chrisrm.idea.MaterialThemeUI
+com.cybrosis.catdea
+com.intellij.bigdecimal-folding
+com.jgentil.theme.darcula_blacker
+com.konifar.material_icon_generator
+com.mallowigi
+com.vermouthx.idea
+cucumber-groovy
+de.timon.schelling.interesting.theme
+hadouken.progress.bar
+izhangzhihao.rainbow.brackets
+me.xdrop.night-owl
+org.jetbrains.android
+org.nik.presentation-assistant

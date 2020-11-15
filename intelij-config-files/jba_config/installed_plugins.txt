@@ -1,0 +1,45 @@
+EclipseCodeFormatter
+com.dubreuia
+org.sonarlint.idea
+training
+com.alayouni.ansiHighlight
+com.cybrosis.catdea
+com.intellij.ideolog
+com.jetbrains.lightThemePreview
+org.nik.presentation-assistant
+com.jetbrains.darkPurpleTheme
+im.jeanfrancois.ideaplugins.ideafullscreen
+hadouken.progress.bar
+io.acari.normandy.progress.bar
+com.hotswap.agent.plugin
+com.jetbrains.edu
+org.intellij.scala
+com.thvardhan.gradianto
+com.intellij.bigdecimal-folding
+Pythonid
+cucumber-javascript
+com.alibaba.autonavi.qa.testng
+Key Promoter X
+SeleniumPlugin
+color.scheme.Tomorrow Dark
+com.vincentp.gruvbox-theme
+com.tylerthrailkill.intellij.solarized
+color.scheme.Monokai Materialized
+com.markskelton.one-dark-theme
+com.arcticicestudio.nord.jetbrains
+com.jetbrains.grayTheme
+com.berzanmikaili.intellij.monokai_pro
+com.4lex4.intellij.solarized
+github.cweijan.test-theme
+com.jensteichert.themes.nightowl
+com.tylerthrailkill.intellij.pastellicious
+org.jetbrains.kotlin
+io.eightpigs.intellij.darktheme
+de.dm.intellij.maven-archetypes-catalog-plugin
+MetricsReloaded
+com.intellij.selenium
+org.intellij.plugins.junitgen
+Lombook Plugin
+com.ifengxue.plugin.jpa-support
+ink.organics.pojo2json
+com.bruce.intellijplugin.generatesetter

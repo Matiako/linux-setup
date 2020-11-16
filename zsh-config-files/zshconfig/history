@@ -1,0 +1,2290 @@
+mvn -version
+javac -version
+docker images
+docker run -d postgres
+docker images
+docker ps -a
+docker ps 
+docker ps -a
+docker images
+postgres --version
+locate bin/postgres
+/usr/lib/postgresql/12/bin/postgres -V
+service postgresql start
+service postgresql status
+postgresql
+postgres
+psql help
+postgres --version
+bash
+service postgresql start
+ls 
+IdeaProjects
+ls
+templateApp
+ls 
+mvn clean install && docker -t przykladowaApp .
+mvn clean install && docker -t przykladowaApp .
+mvn clean install && docker -t przykladowaApp:template .
+mvn clean install && docker -t matiako/przykladowaApp:template .
+mvn clean install && docker -t :template
+mvn clean install && docker -t przyklad:latest
+mvn clean install && docker -t przyklad
+mvn clean install && docker -tag przyklad:latest
+mvn clean install && dock#er -tag przyklad:latest
+mvn clean install && docker build  --tag przyklad
+docker images
+mvn clean install && docker build  --tag przyklad:latest
+docker images -a
+mvn clean install && docker build  --tag przyklad:latest .
+mvn clean install && docker build  --tag przyklad:latest .
+mvn clean install && docker build  --tag przyklad:latest .
+docker images 
+docker run -d -p 8484:8080 --name micro przyklad
+service ps
+psql
+psql postgres 
+cat /etc/service | grep 5432
+service postgresql status
+clear
+postgresql
+postgres
+psql
+which postgres
+which postgresql
+sudo apt-get update 
+sudo -u postgres psql -c "ALTER USER postgres PASSWORD 'postgres';"
+sudo -u postgres psql -c "CREATE DATABASE nttdata;"
+sudo service postgresql stop
+sudo service postgresql start
+postgresql
+psql
+psql seba
+postgres
+services postgresql status
+pg_isready
+sudo apt-get postgresql uninstall
+dpkg -I | postgres
+dpkg -l | grep postgres
+sudo apt-get --purge remove command postgresql
+sudo apt-get --purge remove command pgdg-keyring
+dpkg -l | grep postgres
+sudo apt-get --purge remove command pgdg-keyring postgresql postgresql-10 postgresql-12 posgresql-client-10 postgesql-client-12 postgresql-client-common
+dpkg -l | grep postgres
+apt-get --purge remove command postgresql-common
+sudo apt-get --purge remove command postgresql-common
+dpkg -l | grep postgres
+sudo apt-get --purge remove command 
+sudo apt-get --purge remove pgdg-keyring postgresql-10 postgresql-client-10 postgresql-client-common postgresql-common postgesql-client-12 postgresq-12 
+sudo apt-get --purge remove pgdg-keyring postgresql-10 postgresql-client-10 postgresql-client-common postgresql-common postgresql-client-12 postgresql-12 
+dpkg -l | grep postgres
+cat /etc/os-release
+ sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ bionic-pgdg main" > \\
+/etc/apt/sources.list.d/postgresql.list'
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+sudo apt update
+sudo apt upgrade
+sudo apt install postgresql-12
+sudo su -
+psql postgres
+psql postgres nttdata
+su - postgres
+su -postgres
+su - postgres
+su - postgres
+psql postgres
+sudo su -
+sudo -u nttdata psql
+sudo -u postgres psql
+psql -U nttdata
+service postgres start
+psql -d materialobject -U nttdata
+sudo atom
+sudo atom pg_hba.conf
+sudo vim pg_hba.conf
+sudo -su
+sudo su -
+sudo -u postgres psql
+sudo vim pg_hba.conf
+postgres psql
+sudo service postgresql start
+sudo -u postgres psql
+service postgresql start
+service postgresql start
+sudo ln -s /Apps/Postman /usr/bin/postman
+cat << EOF > ~/.local/share/applications/postman2.desktop\
+[Desktop Entry]\
+Name=Postman\
+GenericName=API Client\
+X-GNOME-FullName=Postman API Client\
+Comment=Make and view REST API calls and responses\
+Keywords=api;\
+Exec=/Apps/Postman\
+Terminal=false\
+Type=Application\
+Icon=/Apps/Postman/app/resources/app/assets/icon.png\
+Categories=Development;Utilities;\
+EOF
+postman
+/Apps/Postman
+cd ..
+ cd ..
+ls 
+home
+Apps
+ls
+vagrant
+Apps
+cat << EOF > ~/.local/share/applications/postman2.desktop\
+[Desktop Entry]\
+Name=Postman\
+GenericName=API Client\
+X-GNOME-FullName=Postman API Client\
+Comment=Make and view REST API calls and responses\
+Keywords=api;\
+Exec=~/Apps/Postman\
+Terminal=false\
+Type=Application\
+Icon=~/Apps/Postman/app/resources/app/assets/icon.png\
+Categories=Development;Utilities;\
+EOF
+sudo ln -s ~/Apps/Postman /usr/bin/postman
+nano  /usr/bin/postman
+sudo ln -s ~/Apps/Postman /usr/bin/postman
+postman
+sudo postman
+sudo snap install postman
+sudo apt-get install postman
+sudo apt install snapd snapd-xdg-open
+sudo snap install postman
+servic postgresql stop
+service postgresql stop
+service postgresql start
+clear
+postman
+postman
+postgresql status
+service postgresql status
+service postgresql status
+postman
+killall
+ps -e | less
+mvn clean install
+service postgresql status
+service postgresql start
+chkconfig --list
+chckconfig --list
+service --status-all 
+postman
+postgresql
+psql
+psql materialobjectsdb
+sudo -u nttdata psql
+sudo -u postgres psql
+bash /opt/idea/bin/idea.sh
+service postgresql start
+postman
+mvn clean install
+git stash
+git checkout origin/master
+git reset -- hard origin/master
+ls -a#
+ls -a
+IdeaProjects
+ls 
+microservice
+git config --global user.name "Sebastian.Bydalek (ext.)"
+git config --global user.email "Sebastian.Bydalek@partner.bmw.de"
+git remote set-url origin https://atc.bmwgroup.net/bitbucket/scm/~qxz10vt/blueprint-payara.git
+cd ..
+microservice1
+git init
+git add --all
+git commit -m "Initial Commit"
+git remote add origin https://atc.bmwgroup.net/bitbucket/scm/~qxz10vt/blueprint-payara.git
+git push -u origin master
+docker image build -t blueprint-payara
+docker image build -t blueprint-payara .
+clear
+docker ls 
+docker ps
+docker imatges
+docker images
+mvn clean install
+sudo /opt/idea/bin/idea.sh
+pgrep
+top
+ps payara
+ps aux
+ps aux | grep -i payara
+killall payara
+kill 26161
+kill 26161
+kill 25576
+ps aux | grep -i payara
+service postgresql start
+postmant
+postman
+clear
+ps aux | grep -i vnstat
+ps aux 
+ps aux | grep -i postgres
+pg_stop
+service postgres stop
+service postgresql stop
+/etc/postgresql/
+ls 
+12
+LS 
+main
+ls 
+atom postgresql.conf
+sudo atom postgresql.conf
+sudo vim postgresql.conf
+sudo intellij
+sudo opt/idea/bin/idea.sh
+cd ...
+cd ..
+cd ..
+cd .
+/home
+cd ll
+cd ..
+sudo opt/idea/bin/idea.sh
+~/
+IdeaProjects
+ls 
+docker
+microservice1
+ls 
+docker images
+docker build -t microservice1:1.0
+docker build -t microservice1:1.0 .
+docker images -ls
+docker image ls
+#docker run -p 8080:8080 microservice1
+docker run -p 8080:8080 microservice1
+docker run -p 8080:8080 microservice1:1.0
+docker ps 
+docker ps -a
+docker rm 3e 63 4b 08 7ab
+docker ps -a
+docker rm 3h
+docker rm 3f
+docerk rm 64
+docker rm 64 13 41 bb f1 1a 71
+docker ps -a
+docker run microservice1:1.9
+docker run microservice1:1.0
+docker imagae build -t blueprint-payara .
+docker image build -t blueprint-payara .
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+mvn clean package
+mvn clean package flyway:migrate
+service postgresql start
+mvn clean package flyway:migrate
+postgresql
+cd ..
+options
+postgresql
+service postgresql stop
+cd  /var/lib/pgsql/data/
+ps aux
+ps aux | grep 'postgres *-d'
+ps aux | grep 'postgres *-D'
+ps aux | grep 'postgres *-D'
+/etc/postgresql/12/main
+sudo atom pg_hba.conf
+sudo atom
+vim pg_hba.conf
+service postgresql start
+psql
+sudo apt upgrade
+sudo apt-get install atom
+sudo apt autoremove
+sudo apt autoremove
+sudo apt-get install atom
+sudo atom
+/etc/postgresql/12/main
+sudo vim pg_hba.conf
+/etc/postgresql/12/main
+ls -a 
+rm .pg_hba.conf.swp
+ls -a
+sudo rm .pg_hba.conf.swp
+ls -a
+sudo vim postgresql.conf
+service postgresql start
+psql
+service postgresql status
+psql
+psql -h /tmp
+ps aux |grep postgres
+source postgresql.conf
+service postgresql stop
+source postgresql.conf
+service postgresql start
+service postgresql status
+postgres
+psql
+psql postgres postgres
+psql postgres postgres#
+service postgresql status
+sudo su postgres
+ping 172.17.0.1
+sudo su postgres
+sudo vim pg_hba.conf
+service postgres restart
+service postgresql restart
+service postgresql status
+psql
+sudo su postgres
+service postgresql stop0
+service postgresql stop
+pg_ctl start -l logfile 
+psql
+psql -h 172.17.0.1:15432 -U postgres
+psql -h 172.17.0.1 -U postgres
+sudo vim postgresql.conf
+sudo vim postgresql.conf
+sudo vim pg_hba.conf
+service postgres restart
+service postgresql restart
+service postgresql status
+ping localhost:5432
+ping 127.0.0.1:5432
+sudo vim pg_hba.conf
+sudo vim postgresql.conf
+source postgresql.conf
+cd ..
+cd ..
+cd ..
+host
+ls -a
+sudo vim hosts
+postgresql
+12/main
+postgres
+sudo -u postgres
+service postgresql stop
+service postgresql start
+service postgresql status
+mvn clean install
+mvn clean install flyway:migration
+mvn clean package
+mvn clean package flyway:migrate
+git clone https://atc.bmwgroup.net/bitbucket/scm/~qxz10vt/blueprint-payara.git ~/IdeaProjects/blueprint-payara
+postgres
+service status postgres
+service postgresql status
+sudo -u postgres psql -c "SELECT versio ();§\
+"
+sudo -u postgres psql -c "SELECT versio ();"
+pgrep -u postgres -fa -- -D
+pgrep -u postgres
+pgrep -u postgresql
+sudo apt-get --purge remove postgesql-*
+sudo apt-get --purge remove postgresql-*
+sudo apt-get uninstall postgresql
+sudo apt-get help
+sudo apt-get purge postgresql
+service postgresql status
+service postgresql stop
+service postgresql status
+apt-get --purge remove command
+dpkg -l | grep postgres
+sudo apt update
+apt-get install postgresql-12
+sudo apt-get install postgresql-12
+sudo service postgresql start
+sudo service postgresql status
+psql
+ps -ef | grep postgres
+psql
+psql -u postgres 
+psql --help
+su - postgres
+su -postgres
+su -u postgres
+sudo su - postgres
+service postgresql stop
+sudo -i -u postgres
+sudo apt-get --purge remove postgresql*
+sudo apt-get --purge remove postgesql
+sudo apt-get --purge remove postgresql*
+sudo apt-get --purge remove postgresql*
+dpkg -l | grep postgres
+sudo apt-get --purge remove postgresql pgdg-keyring postgresql-12 postgresql-client-12 postgresql-client-common postgresql-common
+sudo deluser postgres
+sudo apt update
+git clone https://github.com/neocdtv/JEE8-Example.git ~/IdeaProjects/DatabaseDocker
+docker ps -a
+docker ps -a
+docker ps -q
+docker ps -a
+mvn clean install
+docker imagate build -t blueprint-payara .
+mvn clean package
+mvn clean package 
+docker image build -t docker-payara .
+docker container run --name docker-payara -p 9600:8080 docker-payara
+mvn clean package flywya:migrate
+mvn clean package flyway:migrate
+mvn clean package
+mvn clean package flyway:migrate
+docker image build -t blueprint-payara .
+docker image build -t blueprint-payara .
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm d2
+docker rm 5b 941 10
+docker ps -a
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm 7c
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm ec
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm 51
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm a7
+mvn clean package
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+mvn clean build
+mvn clean install
+mvn clean package
+docker ps 
+docker ps -a
+docker rm 21
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+mvn clean package
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm af
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+sudo docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm 36
+sudo docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm 0c
+sudo docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+sudo docker container run -it --name blueprint-payara2 -p 9600:8080 -it blueprint-payara
+mvn clean package
+docker ps -a
+docker rm 3e e8
+sudo docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+mvn clean package
+docker ps -a
+docker rm 44
+docker rm 44
+docker rm 43
+sudo docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+mvn clean package
+docker image build -t blueprint-payara .
+ docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+docker ps -a
+docker rm c4
+ docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+docker ps -a
+docker 3f stop
+docker stop 3f
+docker image build -t blueprint-payara .
+ docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+docker ps -a
+docker stop 6f
+docker rm 3f
+docker ps -a
+docker stop 6f
+mvn clean package
+mvn clean package flyway:migrate
+./docker-build-db.sh
+./docker-build-db.sh
+./docker-run-db.sh
+./docker-build-db.sh
+./docker-run-db.sh
+database
+ls -a
+mvn clean package
+mvn clean package flyway:migrate
+mvn clean package
+docker ps -a 
+docker rm 3f
+docker rm ea
+docker stop ea
+docker rm ea
+docker-compose
+docker-build-db.sh
+ls -a
+cd ..
+ls -a
+docker-build-sh
+docker-build.sh
+docker-build-db.sh
+ls -a 
+docker-compose
+docker-build-db.sh
+ls 
+database
+docker-build-db.sj
+docker-build-db.sh
+docker ps -a
+docker stop 3f
+cd ..
+ls -a
+docker-build-db.sh
+./docker-build-db.sh
+./docker-build-db.sh
+./docker-run-db.sh
+/usr/bin/zsh /home/vagrant/IdeaProjects/DatabaseDocker/database/isDatabaseAvailable.sh
+/usr/bin/zsh /home/vagrant/IdeaProjects/DatabaseDocker/database/isDatabaseAvailable.sh
+/usr/bin/zsh /home/vagrant/IdeaProjects/DatabaseDocker/database/isDatabaseAvailable.sh
+docker rs -a 
+docker ps -a
+mvn clean package flyway:plugin
+mvn clean package flyway:migrate
+ls -a
+sudo vim .zshrc
+vim .zsh_history
+docker ps -a
+docker stop 6f
+docker stop 66
+docker ps -a
+docker inspect 96
+docker ps -a
+docker inspect d4
+docker ps -a 
+docker stop 96
+docker ps -a
+docker inspect e2
+docker ps -a
+docker exec -it d4 bash
+docker ps -a
+echo 'deb http://download.opensuse.org/repositories/shells:/zsh-users:/zsh-autosuggestions/xUbuntu_19.10/ /' | sudo tee /etc/apt/sources.list.d/shells:zsh-users:zsh-autosuggestions.list
+curl -fsSL https://download.opensuse.org/repositories/shells:zsh-users:zsh-autosuggestions/xUbuntu_19.10/Release.key | gpg --dearmor | sudo tee /etc/apt/trusted.gpg.d/shells:zsh-users:zsh-autosuggestions.gpg > /dev/null
+sudo apt update 
+sudo apt install zsh-autosuggestions
+[200~git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestionS
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+sudo vim .zshrc
+sudo vim .zshrc
+sudo vim .zshrc
+ls -a 
+sudo rm .zshrc.swp
+sudo vim .zshrc
+source .zshrc
+mvn clean package
+ps -a
+docker ps -a
+docker stop 66
+docker rm 66
+docker ps -a
+docker image build -t blueprint-payara .
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker rm 6f
+docker container run  --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop 94
+ docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+docker rm 89
+docker ps -a
+docker rm 94
+ docker container run --name blueprint-payara -p 9600:8080 -it blueprint-payara
+mvn clean package
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker stop 96
+docker rm 96
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop 62
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker rm 82
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop 62
+docker ps -a
+docker rm 62
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop e2
+mvn clean package
+docker ps -a
+docker stop e2
+docker rm e2
+docker ps -a
+docker image build -t blueprint-payara
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop fa
+docker rm fa
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm blueprint-payara
+docker ps -a
+docker ps -a
+docker stop d4
+docker ps -a
+docker rm d4
+docker ps -a
+mvn clean package
+docker ps -a
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop d0
+mvn clean package
+./docker-build-db.sh
+cd .
+cd ..
+./docker-build-db.sh
+./docker-run-db.sh
+./docker-run-db.sh
+mvn clean package flyway:migrate
+docker ps -a
+docer stop bf
+docker stop bf
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker rm bf
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop d0
+docker rm d0
+./docker-run-db.sh
+cd ..
+./docker-run-db.sh
+mvn clean package flyway:migrate
+database
+mvn clean package flyway:migrate
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+mvn clean package 
+docker ps -a
+docker stop ee
+docker rm ee
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker stop 18
+docker ps -a
+docker rm 18
+../ docker-run-db.sh
+cd ..
+../ docker-run-db.sh
+./ docker-run-db.sh
+database/
+./ docker-run-db.sh
+cd ..
+./docker-run-db.sh
+mvn clean package 
+database/
+mvn clean package 
+docker images -ls
+docker images ps -a
+mvn clean packate
+docker images
+./docker-build-db.sh
+cd ..
+./docker-build-db.sh
+./docker-run-db.sh
+docker images
+docker images rm materials
+docker system prune
+cd ..
+mvn clean package
+DatabaseDocker
+ls -a
+database
+mvn clean package
+cd ..
+./docker-build-db.sh
+./docker-run-db.sh
+docker images
+mvn clean package
+database
+mvn clean package
+cd ..
+./docker-build-db.sh
+./docker-run-db.sh
+database
+mvn clean package flyway:migrate
+docker ps -a
+docker stop c0
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker rm c0
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps 
+docker stop blueprint-payara
+mvn clean package 
+docker rm blueprint-payara
+mvn clean package 
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara -p 9600:8080 blueprint-payara
+docker stop blueprint-payara
+docker rm blueprint-payara
+docker container run --name blueprint-payara --net=host -p 9600:8080 blueprint-payara
+docker stop blueprint-payara
+docker rm blueprint-payara
+docker ps -a
+docker container run --name blueprint-payara --net=host -p 9600:8080 blueprint-payara
+docker stop blueprint-payara
+docker rm blueprint-payara
+mvn clean package
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara --net=host -p 9600:8080 blueprint-payara
+docker stop blueprint-payara
+docker rm blueprint-payara
+docker ps -a
+mvn clean package
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara --net=host -p 9600:8080 blueprint-payara
+docker stop blueprint-payara
+docker rm blueprint-payara
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara --net=host -p 9600:8080 blueprint-payara
+mvn clean package
+docker stop blueprint-payara
+docker rm blueprint-payara
+docker image build -t blueprint-payara .
+docker container run --name blueprint-payara --net=host -p 9600:8080 blueprint-payara
+./redeploy-payara-service.sh
+docker stop blueprint-payara
+./redeploy-payara-service.sh
+chmod +x ./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+ls -a
+./ redeploy-payara-service.sh
+redeploy-payara-service.sh
+./ redeploy-payara-service.sh
+chmod +x ./redeploy-payara-service.sh
+./ redeploy-payara-service.sh
+./ redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./docker-run-db.sh
+docker ps -a
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+docker images rm materials
+docker images ps -a
+docker images 
+docker images rm a1 bd 37 92 10 ef 44 5f fc 16 65 ef 9f bb 3b 8b
+docker image rm a1 bd 37 92 10 ef 44 5f fc 16 65 ef 9f bb 3b 8b
+docker images
+docker image rm 92 ef5 efd 9f
+docker image rm 9290 ef5 efd 9f
+docker images 
+docker images rm 9f6
+docker image rm 9f68
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+ls -a 
+IdeaProjects
+ls -a 
+git clone https://atc.bmwgroup.net/bitbucket/scm/~qxz10vt/blueprint-quarkus.git blueprint-quarkus
+blueprint-quarkus
+ls -a 
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+docker ps -a 
+docker stop blueprint-payara
+./redeploy-payara-service.sh
+docker stop blueprint-payara
+git clone https://atc.bmwgroup.net/bitbucket/scm/~qxz10vt/blueprint-payara.git blueprint-payara
+git clone https://atc.bmwgroup.net/bitbucket/scm/~qxz10vt/blueprint-payara.git blueprint-payara
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+./redeploy-payara-service.sh
+doker ps -a
+docker ps -a
+docker stop materials
+docker ps -a
+docker image rm 78
+docker image rm 78d
+docker rm 78d
+./docker-build-db.sh
+./docker-run#-db.sh
+./docker-run-db.sh
+docker ps -a
+docker stop materials
+docker rm ac0
+docker ps -a
+docker stop materials
+docker ps -a
+docker ps -a
+docker ps -a 
+docker image rm c65
+docker image rm materials
+./docker-build-db.sh
+./docker-run-db.sh
+docker rm c65
+./docker-build-db.sh
+./docker-run-db.sh
+docler ps -a
+docker ps -a
+docker stop fef#
+docker stop fef
+docker rm materials
+./docker-build-db.sh
+./docker-run-db.sh
+./docker-redeploy-db.sh
+docker stop materials
+./docker-redeploy-db.sh
+chmod +x ./docker-redeploy-db.sh
+ls -A
+ls -a 
+source .zshrc
+chmod +x ./docker-redeploy-db.sh
+ls -a #
+ls -a 
+sudo vim .zshrc
+sudo vim .zshrc
+ls -a 
+rm .zshrc.swp
+ls -a 
+./docker-redeploy-db.sh
+chmod a +x ./docker-redeploy-db.sh
+chmod a+x ./docker-redeploy-db.sh
+chmod a+x ./docker-redeploy-db.sh
+source .zshrc
+ls -a 
+IdeaProjects
+ls -a 
+DatabaseDocker
+#
+ls -a 
+sudo vim docker-redeploy-db.sh
+ls -a 
+touch docker-redeploy-db.sh#
+touch docker-redeploy-db.sh
+touch docker-redeploy-db.sh
+ls -a 
+rm docker-redeploy-db.sh
+rm docker-redeploy-db.sh#
+ls -a 
+ls -a 
+touch docker-redeploy-db.sh
+sudo vim docker-redeploy-db.sh
+ls -a 
+chmod a+x ./docker-redeploy-db.sh
+./docker-redeploy-db.sh
+sudo vim docker-redeploy-db.sh
+ls -a 
+cd ..
+ls -a 
+sudo vim docker-redeploy-db.sh
+ls -a 
+rm docker-redeploy-db.sh.swp
+ls -a 
+docker rm .docker-redeploy-db-sh.sqp
+docker rm .docker-redeploy-db-sh.swp
+ls -a 
+criu --W
+criu -V
+mvn clean package
+database
+ls -a 
+cd ..#
+mvn clean package flyway:migrate
+docker ps -a 
+docker rm materials
+./docker-redeploy-db.sh
+ls -a 
+cd ..
+ls -a 
+./docker-redeploy-db.sh
+docker ps -a 
+docker stop eca
+docker rm eca
+./docker-redeploy-db.sh
+docker ps -a 
+docker stop materials
+docker rm materials
+ls -a 
+docker-build-db.sh
+./docker-build-db.sh
+./docker-run-db.sh
+database
+ls -a 
+mvn clean package flyway:migrate
+./redeploy-payara-service.sh
+mvn failsafe:integration-test failsafe:verify 
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./docker-redeploy-db.sh
+mvn clean package flyway:migrate
+mv
+mvn clean package flyway:migrate
+./redeploy-payara-service.sh
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package#
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+docker ps -a
+./redeploy-payara-service.sh
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+chmod a+x ./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+    @Test
+docker ps -a 
+    public void validateMaterial_whenSuccessOnGetsResponseAndMaterialExistWithValidDemandDate_returnTrue() {\
+\
+        JsonObject demand = Json.createObjectBuilder().add("materialNumber", "M000").\
+                add("demandDate", "2020-10-23T08:04:48.565Z").build();\
+\
+        RestAssured.given()\
+                .contentType(ContentType.JSON)\
+                .body(demand).when().post("materials/validate_demand").then().statusCode(200);\
+\
+
+docker ps -a
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+docker ps -a
+./retest.sh
+                with().contentType(ContentType.JSON).body(postObject)
+                .when()\
+                .request("POST", "materials")
+                .then()\
+                .statusCode(200);
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./redeploy-payara-service.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./redeploy-payara-service.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./redeploy-payara-service.sh
+./retest.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./retest.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./redeploy-payara-service.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./retest.sh
+./docker-build-db.sh
+./docker-run-db.sh
+docker ps -a
+docker rm materials
+./docker-run-db.sh
+mvn clean package 
+mvn clean package flyway:migrate
+docker ps -a
+docker ps -a
+docker rm materials
+docker rm blueprint-payara
+./red
+./redeploy-payara-service.sh
+mvn clean package
+./retest.sh
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+docker rm blueprint-payara
+docker ps -a
+redeploy-payara-service.sh
+./redeploy-payara-service.sh
+docker ps -a
+docker rm blueprint-payara
+docker rm materials
+docker rm -a
+docker rs -a 
+docker rs 
+docker rm 
+docker 
+docker ls -a
+./docker-build-db-sh
+cd ..
+./docker-build-db-sh
+./docker-build-db.sh
+./docker-run-db.sh
+docker ps -a
+mvn clean package flyway:migrate
+database
+mvn clean package flyway:migrate#
+mvn clean package flyway:migrate
+mvn clean package
+git clone \
+https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-payara.git blueprint-payara
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-payara.git
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-payara.git
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn clean package
+mvn clean package
+mvn failsafe:integration-test failsafe:verify 
+mvn compile
+mvn clean compile
+mvn clean compile
+mvn clean install
+mvn clean install
+mvn clean install
+mvn clean install
+mvn clean install
+mvn clean install
+docker ps -a
+mvn clean install
+mvn clean package
+mvn clean package
+git https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-input.git
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-input.git
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-input.git
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-quarkus.git
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-qatling.git
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-qatling.git
+git config --global user.email "Sebastian.Bydalek@partner.bmw.de"
+git config --global user.name
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/pipeline-dummy.git
+docker-compose up
+docker ls 
+docker ps -a
+docker ps -a
+mvn clean install
+mvn clean package
+git clone https://atc.bmwgroup.net/bitbucket/scm/~qxz10vt/blueprint-input.git locale-input
+locale-input
+infrastructure
+docker compose up
+docker-compose up
+docker ps -a 
+docker stop materials
+ docker stop materials
+docker rm materials
+docker ps -a
+sudo intellij
+sudo /opt/idea/bin/idea.sh
+IdeaProjects
+locale-input
+Proton
+locale-input
+docker-compose up
+infrastructure
+docker-compose up
+infrastructure
+docker-compose up
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-input.git
+blueprint-input
+input/
+docker-compose up
+docker-compose up
+input/
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose up
+cd ..
+cd ..
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-gatling.git
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/reporting-cockpit.git
+docker-compose up
+blueprint-input
+docker-compose build --no-cache
+ls -a
+infrastructure
+ls 
+ls -a 
+docker-compose build --no-cache
+./redeploy-payara-service.sh
+sudo ./redeploy-payara-service.sh
+sudo ./ redeploy-payara-service.sh
+chmod a+x ./redeploy-payara-service.sh
+sudo ./ redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+chmod a+x ./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+docker-compose up
+docker-compose down
+docker-compose up
+docker ps -a
+docker-compose down
+netstat
+ netstat 13000
+ netstat 13000
+ netstat 13000
+ netstat -a 
+ [9:57 AM] Christian Richthammer\
+    \
+netstat   �an 1 | find "13000"\
+
+netstat -an 1 | find 13000
+netstat -an 1 | find "13000"
+netstat -an  | find "13000"
+netstat -a  | find "13000"
+sudo netstat -tulpn | grep :443
+sudo netstat -tulpn | grep :13000
+docker-compose down
+docker-compose up
+docker ps -a
+./redeploy-payara-service.sh
+docker ps -a
+mvn clean install
+./redeploy-payara-service.sh
+docker ps -a
+docker-compose up
+docker-compose down
+docker-compose up
+docker ps -a
+docker stop blueprint-payara
+docker start blueprint-payara
+docker stop blueprint-payara
+docker container rm blueprint-payara
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker stop blueprint-payara
+docker rm blueprint-payara
+docker images
+docker image rm blueprint-payara
+mvn clean package
+mvn clean package flyway:migrate
+materials/
+mvn clean package
+mvn clean package flyway:migrate
+cd ..
+docker image build -t blueprint-payara -f ./materials/docker/Dockerfile .
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker-compose down
+docker-compose up
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a 
+docker compose down
+docker-compose down
+infrastructure
+docker-compose down
+docker-compose up
+docker ps -a
+./ redeploy-payara-service.sh
+chmod a+x ./redeploy-payara-service.sh
+./ redeploy-payara-service.sh
+chmod a+x ./redeploy-payara-service.sh
+./ redeploy-payara-service.sh
+./redeploy-payara-service.sh
+docker ps -a
+docker ps -a
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker stop blueprint-payara
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a
+docker rm blueprint-payara
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+docker ps -a 
+docker stop blueprint-payara
+docker rm blueprint-payara
+materials/
+mvn clean package
+mvn clean package flyway:migrate
+docker image build -t blueprint-payara -f ./materials/docker/Dockerfile .
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+ls -a 
+./redeploy-payara-service.sh
+materials
+./redeploy-payara-service.sh
+docker compose up
+docker ps -a 
+docker ps -a 
+docker compose up
+docker-compose up
+docker ps -a 
+./redeploy-payara-service.sh
+docker ps -a 
+docker-compose down
+docker ps -a
+docker stop blueprint-payara
+docker ps -a 
+docmer rm f1 5a 55
+docker rm f1 5a 55
+docker ps -a 
+docker-compose up
+docker ps -a 
+docker-compose down
+docker ps -a 
+docker image rm be 47 29 74 ed 57 27 8a 18 06 ab 01 93
+docker ps -a 
+docker image ps 
+docker image ls 
+docker image rm blueprint-payara
+docker image rm output-materials
+docker ps -a 
+docker rm be
+docker rm 47
+docmer rm 29
+docker rm 29
+docker ps -a 
+docker rm ed
+docker rm 74 ed 
+docker-compose down
+docker ps -a 
+docker image ls 
+docker image prone
+docker image prune
+docker volume prune
+docker-compose up
+docker-compose donw
+docker-compose down
+docker-compose build
+docker-compose build --no-cache
+docker ps -a 
+docker-compose up
+docker ps -a 
+docker ps -a 
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+cd ..
+docker stop blueprint-payara
+mvn clean package flyway:migrate
+materials
+mvn clean package flyway:migrate
+cd ..
+docker image build --no-cache -t blueprint-payara -f ./materials/docker/Dockerfile .
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+materials
+mvn flyway:clean
+mvn flyway:migrate
+mvn flyway:clean
+mvn flyway:migrate
+mvn flyway:clean
+mvn flyway:migrate
+ls -a 
+vim .zshrc
+java -version
+sudo nano /etc/environment
+java -version
+source .zshrc
+java -version
+docker ps -a
+docker stop $(docker ps -a -q)
+docker rm$(docker ps -a -q)
+docker rm $(docker ps -a -q)
+docker-compose build --no-cache
+docker-compose build --no-cache
+docker ps -a
+docker-compose up
+material
+materials
+mvn flyway:clean
+cd ..
+mvn flyway:clean
+mvn flyway:clean
+cd ..
+mvn flyway:clean
+mvn flyway:migrate
+./redeploy-payara-service.sh
+docker ps -a
+materials
+mvn clean package flyway:migrate
+sudo 
+sudo nano /etc/environment
+echo $JAVA_HOME
+tar zxvf jdk-11.0.8_linux-x64_bin.tar.gz
+mvn clean package flyway:migrate
+./redeploy-payara-service.sh
+docker ps -a
+./redeploy-payara-service.sh
+mvn clean package flyway:migrate
+cd ..
+mvn clean package flyway:migrate
+mvn clean package
+mvn -version
+docker ps -a
+docker ps -a 
+docker-compose down
+infrastructure
+docker-compose down
+mvn -version
+mvn --version
+ mvn --version
+mvn clean install
+java -version
+mvn -version
+vim .zshrc
+cd ..
+cd ..
+cd ..
+cd ..
+vim .zshrc
+echo $MAVEN_HOME
+echo $M2_HOME
+sudo nano /etc/environment
+source /etc/environment
+java -version 
+mvn -version
+mvn --version
+sudo nano /etc/environment
+mvn --version
+ls -a
+vim .zshrc
+source .zshrc
+vim .zshrc
+source .zshrc
+mvn --version
+java -version
+mvn --version
+mvn -version
+sudo apt update
+java -version
+mvn -version
+source .zshrc
+mvn -version
+mvn --version
+tar xzvvf apache-maven-3.6.3-bin.tar.gz
+mvn -v 
+mvn -version
+mvn flyway:clean
+mvn clean package
+mvn clean package
+mvn flyway:clean
+docker ps -a
+docker rm blueprint-payara
+docker ps -a
+docker compose up
+docker-compose up
+mvn flyway:clean
+./redeploy-payara-service.sh
+docker ps -a 
+./redeploy-payara-service.sh
+docker ps -a
+docker stop blueprint-payara
+mvn flyway:clean
+materials
+mvn flyway:clean
+mvn flyway:migrate
+docker start blueprint-payara
+docker ps -a
+docker ps -a
+./redeploy-payara-service.sh
+docker ps -a
+docker ps -a
+docker container run --network infrastructure_default --name blueprint-payara -p 9600:8080 blueprint-payara
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+docker-compose down
+docker-compose up
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+mvn flyway:migrate
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./setupBuildAndRun.sh
+chmod a+x ./setupBuildAndRun.sh
+./setupBuildAndRun.sh
+ export GIT_TRACE_PACKET=1
+export GIT_TRACE=!
+export GIT_TRACE=1
+export GIT_CURL_VERBOSE=1
+git fetch
+git pull 
+git fetch
+git fetch
+git fetch
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-quarkus.git
+mvn clean build
+mvn clean build
+java -version
+docker ps -a
+java -version
+mvn clean build
+mvn clean build
+mvn clean install
+./setupBuildAndRun.sh
+chmod a+x ./setupBuildAndRun.sh
+./setupBuildAndRun.sh
+ demands
+java -jar target/demands-dev.jar
+cd ..
+java -jar target/demands-dev.jar
+ls -a 
+demands
+ls -a 
+java -jar target/demands-dev.jar
+java -jar /target/demands-dev.jar
+java -verison
+java -version
+target
+ls -a 
+cd ..
+cd ..
+demands
+mvn package quarkus:dev
+mvn package quarkus:dev
+mvn package quarkus:dev -DskipTests
+docker ps -a 
+mvn package quarkus:dev
+mvn compile quarkus:dev
+ docker network inspect 
+docker network inspect --help
+docker netwokr inspect network_default
+docker network inspect network_default
+docker network ls 
+docker network inspect a79
+docker network inspect da
+ docker ps -a
+ifconfig
+ifconfig
+docker compose down
+docker-compose down
+cd ..
+docker-compose down
+ps -a 
+docker
+docker
+docker
+/docker 
+docker
+/docker
+cd ..
+blue
+blueprint-input
+ls -a 
+input
+ls -a 
+docker
+cd docker
+docker-compose down
+cd ..
+infra
+cd ..
+infrastructure
+docker-compose down
+docker/
+docker-compose down
+docker ps -a
+docker stop($docker ps -aq)
+docker stop $(docker ps -aq)
+docker rm $(docker ps -aq)
+docker rmi $(docker images -q)
+docker ls images
+docker image ls 
+docker rm ex
+docker rmi 80
+docker rm materials
+docker rmi materials
+docker image ls
+docker rmi postgres
+docker image ls 
+docker rmi a7
+docker-compose up
+ docker/
+ls -a
+docker-compose up
+docker-compose up
+docker/
+ls -a 
+materials
+docker/
+docker-compose up
+docker-compose up
+mvn flyway:migrate
+docker-compose up
+docker-compose up
+docker-compose up
+docker-compose down
+ls -a 
+docker/
+docker-compose down
+docker-compose down
+docker-compose up
+docker-compose up
+docker-compose up
+docker ps -a
+docker-compose up
+docker-compose up
+mvn clean install
+cd ..
+mvn clean install
+ which maven
+which mvn
+mvn clean
+mvn clean package
+mvn clean install
+docker ps -a
+mvn clean install
+cd ..
+mvn c
+mvn clean install
+cd ..
+mvn clean install
+docker-compose up
+infrastructure
+docker/
+docker-compose up
+cd ..
+cd ..
+mvn clean install
+mvn clean install
+docker/
+docker-compose up
+mvn clean build 
+cd ..
+cd ..
+mvn clean build
+mvn clean install
+docker/
+ls -a 
+demands
+docker
+docker/
+docker-compose up
+cd ..
+cd ..
+cd ..
+blueprint-quarkus
+./setupBuildAndRun.sh
+ mvn -q clean package
+ mvn -q clean package
+ mvn -X clean package
+ mvn test
+mvn surefire:test
+mvn clean install -DskipTests
+mvn clean test
+mvn clean test -e -X
+mvn clean test -e -X
+mvn clean build
+mvn clean install
+sudo /opt/idea/bin/idea.sh
+mvn clean install
+docker-compose up
+docker/
+ls -a 
+m/d
+materials
+docker
+docker/
+docker-compose up
+docker-compose up#
+docker-compose up
+docker-compose up
+docker ps -a 
+cd ..
+clean package flyway:migrate
+mvn clean package flyway:migrate
+docker ps -a
+docker/
+docker-compose up
+docker-compose up
+docker-compose up
+ docker ps -a
+cd ..
+./ redeploy-payara-service.sh
+chmod a+x /redeploy-payara-service.sh
+ls -a 
+cd ..
+ls -a 
+./ redeploy-payara-service.sh
+chmod a+x /redeploy-payara-service.sh
+chmod a+x redeploy-payara-service.sh
+./ redeploy-payara-service.sh
+ls -a 
+chmod r+x redeploy-payara-service.sh
+chmod --help
+chmod a+x redeploy-payara-service.sh
+./redeploy-payara-service.sh
+./redeploy-payara-service.sh
+materials
+docker/
+docker-compose up
+docker-compose up
+mvn clean install
+cd ..
+cd ..
+mvn clean install
+materials/docker
+docker-compose build --no-cache
+docker-compose uüp
+docker-compose up
+docker-compose up
+mvn clean install
+docker-compose build --no-cache
+mvn clean install
+cd ..
+cd ..
+mvn clean install
+docker-compose build --no-cache
+materials/docker
+docker-compose build --no-cache
+docker-compose up
+docker ps -a 
+docker/#
+docker/
+docker-compose up
+ls -a 
+ls -a 
+demands
+ls -a 
+docker/
+docker-compose up
+docker-compose down
+cd ..
+cd ..
+mvn clean install
+demands
+docker/
+docker-compose build --no-cache
+docker-compose up
+docker-compose build --no-cache
+cd .. 
+cd ..
+mvn clean install
+demands/docker/
+docker-compose build --no-cache
+docker-compose up
+docker ps -a
+ps -f -u postgres
+docker ps -f -u postgres
+mvn clean install
+demands/docker/
+docker-compose build --no-cache
+docker ps -a
+docker prune --all
+ docker image prune .a
+ docker image prune -a
+docker ps -a
+docker system prune
+docker ps -a
+docker-compose down
+docker-compose build --no-cache
+docker compose up
+docker-compose up
+docker-compose down
+docker-compose down
+docker-compose up --add-host=host.docker.internal:host-gateway
+ cd .. 
+cd ..
+mvn clean install
+demands/docker/
+docker-compose build --no-cache
+sudo atom /etc/hosts
+sudo nano /etc/hosts
+cd ..
+cd ..
+mvn clean install
+demands/docker/
+docker-compose build --no-cache
+docker-compose up
+docker-compose up
+docker-compose down
+cd ..
+mvn clean install
+cd ..
+mvn clean install
+demands/docker/
+docker-compose build --no-cache
+docker/
+ps -a
+ls -a 
+infrastructure/docker/
+docker-compose build --no-cache
+docker-compose up
+docker-compose down
+docker-compose up
+cd ..
+cd ..
+mvn clean install
+materials/docker
+docker-compose build --no-cache
+docker-compose up
+--add-host=host.docker.internal:host-gateway
+sudo nano .zshrc
+sudo atom .zshrc
+vim .zshrc
+vim .zshrc
+cd ..
+mvn clean install
+docker-compose up
+demands/docker/
+docker-compose build 
+docker-compose up
+docker/
+docker-compose build 
+docker-compose up
+docker ps -a
+docker compose down
+docker-compose down
+cd ..
+cd ..
+mvn clean install
+materials/docker
+docker-compose down
+docker-compose up
+docker-compose up
+docker-compose down
+cd ..
+mvn clean install
+docker/
+docker-compose build --no-cache
+docker-compose up
+docker-compose down
+docker-compose build
+docker-compose up
+docker ps -a
+docker-compose up
+docker-compose down
+docker-compose down
+docker ps -a
+docker stop materials
+docker stop 72
+docker stop 33
+docker ps -a
+docker system prune
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-payara.git
+cd ..
+docker ps -a
+mvn clean install
+cd ..
+cd ..
+mvn clean install
+cd ..
+cd ..
+mvn clean install
+infrastructure/docker/
+docker compose up
+cd ..
+mvn clean install
+docker-compose up
+materials/docker
+docker-compose up
+docker ps -a
+docker-compose down
+docker ps -a
+docker-compose up
+docker ps -a
+g
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-payara.git
+materials/docker
+cd ..
+cd ..
+mvn clean install
+materials/docker
+docker-compose build --no-cache
+docker-compose up
+mvn failsafe:integration-test failsafe:verify 
+mvn clean install
+git fetch
+git checkout origin/feature/unit-test-
+git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-quarkus.git
+mvn clean install
+mvn clean install
+mvn clean install
+ mvn clean install
+mvn clean install -DskipTests
+mvn clean install -DskipTests
+mvn clean install 
+: 1600679652:0;git
+: 1600679668:0;git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-quarkus.git
+: 1600680306:0;mvn clean install
+: 1600680362:0;mvn clean install
+: 1600683672:0;mvn clean install
+: 1600685693:0;maven clean test
+: 1600685699:0;mvn clean test
+: 1600685755:0;mvn clean test -e -X
+: 1600691223:0;mvn clean test
+: 1600691292:0;git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-quarkus.git
+: 1600691304:0;git clone https://atc.bmwgroup.net/bitbucket/scm/prosit/blueprint-quarkus.git
+: 1600691555:0;mvn clean install
+: 1600691620:0;mvn clean test -e -X
+: 1600695924:0;docker ps -a
+: 1600695934:0;docker prune --all
+: 1600695957:0;docker-compose up
+: 1600717384:0;docker-compose up
+: 1600717391:0;docker/
+: 1600717406:0;materials/docker
+: 1600717410:0;docker-compose up
+: 1600717489:0;docker-compose down
+: 1600717506:0;docker ps -a 
+: 1600717535:0;mvn clean install
+: 1600717545:0;cd ..
+: 1600717552:0;mvn clean install
+: 1600717586:0;cd ..
+: 1600717588:0;docker/
+: 1600717596:0;materials/docker
+: 1600717735:0;docker-compose up
+: 1600717814:0;docker-compose dow
+: 1600717818:0;docker-compose down
+: 1600717825:0;docker image ls 
+: 1600717836:0;docker rmi materials
+: 1600717841:0;docker ls -a
+: 1600717846:0;docker image ls 
+: 1600717862:0;docker-compose up
+: 1600717947:0;docker-compose down
+: 1600717968:0;docker-compose up
+: 1600718403:0;docker-compose down
+: 1600718412:0;docker-compose up
+: 1600755158:0;docker prune --all
+: 1600755405:0;docker-compose up
+: 1600755634:0;docker-compose up
+: 1600755766:0;docker-compose down
+: 1600755779:0;docker image ls 
+: 1600755792:0;docker rmi materials
+: 1600755800:0;docker-compose up
+: 1600755870:0;docker-compose down
+: 1600755886:0;docker-compose up#
+: 1600755889:0;docker-compose up
+: 1600755921:0;docker-compose down
+: 1600755938:0;mvn clean install
+: 1600756105:0;docker-compose up
+: 1600756660:0;docker-compose down
+: 1600756804:0;docker images
+: 1600756814:0;docker rmi materials+
+: 1600756819:0;docker rmi materials
+: 1600756853:0;docker rmi 99
+: 1600756862:0;docker ls -a 
+: 1600756866:0;docker ps -a
+: 1600756878:0;docker images ps -a
+: 1600756884:0;docker images
+: 1600756901:0;docker-compose up
+: 1600757275:0;mvn clean install
+: 1600757323:0;docker-compose up
+: 1600757397:0;docker-compose down
+: 1600757409:0;mvn clean install
+: 1600757424:0;docker-compose build --no-cache
+: 1600757444:0;docker-compose up
+: 1600759304:0;docker-compose down
+: 1600759315:0;maven clean install
+: 1600759322:0;mvn clean install
+: 1600759354:0;docker-compose build --no-cache
+: 1600759366:0;docker-compose up
+: 1600759689:0;docker-compose down
+: 1600759700:0;mvn clean install
+: 1600759722:0;docker-compose up
+: 1600759728:0;docker-compose down
+: 1600759784:0;docker-compose down
+: 1600759793:0;docker rmi materials
+: 1600759807:0;docker-compose build --no-cache
+: 1600759818:0;docker-compose up
+: 1600759986:0;mvn clean install
+: 1600759997:0;docker-compose down
+: 1600760013:0;docker-compose build --no-cache
+: 1600760026:0;docker-compose up
+: 1600761511:0;docker-compose down
+: 1600761517:0;mvn clean install
+: 1600761548:0;docker-compose build --no-cache
+: 1600761556:0;docker-compose up
+: 1600763620:0;mvn clean install
+: 1600763628:0;docker-compose down
+: 1600763648:0;docker-compose up
+: 1600764487:0;mvn clean install
+: 1600764523:0;docker-compose build --no-cache
+: 1600764531:0;docker-compose up
+: 1600764789:0;mvn clean install
+: 1600764799:0;docker-compose down
+: 1600764817:0;docker-compose build --no-cache
+: 1600764830:0;docker-compose up
+: 1600765614:0;mvn clean install
+: 1600765622:0;docker-compose down
+: 1600765647:0;docker-compose build --no-cache
+: 1600765655:0;docker-compose up
+: 1600766195:0;docker-compose down
+: 1600766210:0;mvn clean install
+: 1600766229:0;docker-compose build --no-cache
+: 1600766270:0;mvn clean install
+: 1600766288:0;docker-compose build --no-cache
+: 1600766301:0;docker-compose up
+: 1600766705:0;docker-compose down
+: 1600766724:0;mvn clean install
+: 1600766758:0;docker-compose build --no-cache
+: 1600766768:0;docker-compose up
+: 1600774083:0;mvn clean install
+: 1600774090:0;docker-compose down
+: 1600774121:0;docker-compose build --no-cache
+: 1600774136:0;docker-compose up
+: 1600775081:0;mvn clean install
+: 1600775116:0;docker-compose down
+: 1600775134:0;docker-compose build --no-cache
+: 1600775144:0;docker-compose up
+: 1600783337:0;docker ps -a
+: 1600783367:0;mvn clean install
+: 1600783858:0; mvn clean install
+: 1600784203:0; git fetch
+: 1600784244:0;git checkout origin/feature/get-version
+: 1600784386:0; mvn clean install
+: 1600784397:0;demands/docker/
+: 1600784402:0;docker-compose build --no-cache
+: 1600784482:0;docker-compose build --no-cache
+: 1600784533:0;docker-compose up
+: 1600784645:0;docker-compose up
+: 1600838176:0;git commit
+: 1600838201:0;git push origin HEAD
+: 1600842683:0;mvn clean install
+: 1600842719:0;docker-compose down
+: 1600842735:0;docker-compose up
+: 1600842904:0;docker-compose down
+: 1600842911:0;mvn clean install
+: 1600842937:0;docker ps -a
+: 1600842955:0;docker-compose build --no-cache
+: 1600842982:0;docker-compose up
+: 1600848577:0;./redeploy-payara-service.sh
+: 1600848650:0;cd ..
+: 1600848654:0;./redeploy-payara-service.sh
+: 1600848663:0;cd ..
+: 1600848668:0;mvn clean install
+: 1600855057:0;mvn clean install
+: 1600855066:0;docker ps -a
+: 1600855133:0;docker prune --all
+: 1600855153:0; docker prune system
+: 1600855183:0;docker system prune
+: 1600855196:0;docker compose up
+: 1600855201:0;docker-compose up
+: 1600858717:0;docker ps -a
+: 1600858734:0;./redeploy-payara-service.sh
+: 1600858924:0;./redeploy-payara-service.sh
+: 1600858991:0;./redeploy-payara-service.sh
+: 1600859021:0;cd ..
+: 1600859023:0;cd ..
+: 1600859057:0;./redeploy-payara-service.sh
+: 1600859192:0;dirs
+: 1600859203:0;pushd materials/docker
+: 1600859214:0;dirs
+: 1600859402:0;popd
+: 1600859407:0;popd
+: 1600859479:0;./redeploy-payara-service.sh
+: 1600859617:0;clear
+: 1600860022:0;./redeploy-payara-service.sh
+: 1600860062:0;./redeploy-payara-service.sh
+: 1600860099:0;./redeploy-payara-service.sh
+: 1600860864:0;./redeploy-payara-service.sh
+: 1600861146:0;./redeploy-payara-service.sh
+: 1600861532:0;./redeploy-payara-service.sh
+: 1600862228:0;cd ..
+: 1600862229:0;cd ..
+: 1600862233:0;./setupBuildAndRun.sh
+: 1600862334:0;dirs
+: 1600862342:0;./setupBuildAndRun.sh
+: 1600863618:0;docker-compose down
+: 1600863629:0;materials/docker
+: 1600863632:0;docker-compose down
+: 1600866716:0;demands
+: 1600866719:0;docker/
+: 1600866727:0;docker-compose up
+: 1600866749:0;docker-compose down
+: 1600866931:0;docker-compose up
+: 1600867091:0;demands/docker/
+: 1600867096:0;docker-compose down
+: 1600867156:0;cd ..
+: 1600867174:0;./mvnw compile quarkus:dev
+: 1600867264:0;chmod a+x mvnw
+: 1600867269:0;./mvnw compile quarkus:dev
+: 1600867284:0;cd ..
+: 1600867287:0;./mvnw compile quarkus:dev
+: 1600867332:0;demands/docker/
+: 1600867337:0; docker-compose up
+: 1600867590:0;docker ps -a
+: 1600868509:0; docker-compose build --no-cache
+: 1600868630:0;docker-compose up
+: 1600868884:0;docker-compose down
+: 1600868891:0;cd ..
+: 1600868892:0;ls -a
+: 1600868905:0;./mvnw compile quarkus:dev
+: 1600869256:0;mvn clean install
+: 1600928252:0;docker-compose up
+: 1600928344:0;docker/
+: 1600928351:0;docker-compose build --no-cache
+: 1600928364:0;docker ps -a
+: 1600928377:0;docker-compose up
+: 1600928427:0;docker-compose down
+: 1600928436:0;docker system prune
+: 1600928442:0;docker images
+: 1600929132:0;docker image prune
+: 1600929154:0;docker image prune -a
+: 1600929188:0;docker-compose up
+: 1600929442:0;docker-compose build --no-cache
+: 1600929481:0;docker-compose donw
+: 1600929486:0;docker-compose down
+: 1600929497:0;docker-compose up
+: 1600929667:0;cd ..
+: 1600929669:0;c d..
+: 1600929675:0;mvn clean install
+: 1600929996:0; mvn clean install
+: 1600930044:0;mvn clean install
+: 1600930220:0;mvn clean install
+: 1600930261:0;mvn clean install
+: 1600930324:0;mvn clean install
+: 1600930366:0;demands/docker/
+: 1600930369:0;docker-compose up
+: 1600930377:0;docker/
+: 1600930384:0;docker-compose up
+: 1600932231:0;docker/
+: 1600932236:0;demands/docker/
+: 1600932243:0;docker-compose down
+: 1600932254:0;docker-compose up
+: 1600932394:0;docker stop demands
+: 1600932404:0;docker-compose build --no-cache
+: 1600932416:0;mvn clean install
+: 1600932461:0;mvn clean install -DskipTests
+: 1600932659:0; mvn clean install -DskipTests
+: 1600932711:0;docker-compose up demands
+: 1600932855:0;demands/docker/
+: 1600932864:0;docker-compose down demands
+: 1600932892:0; mvn clean install -DskipTests
+: 1600932927:0;docker-compose up demands
+: 1600933128:0;demands/
+: 1600933131:0;mvn clean install -DskipTests
+: 1600933163:0;docker-compose build --no-cache
+: 1600933207:0;docker-compose up demands
+: 1600952051:0;docker/
+: 1600952061:0;docker-compose down
+: 1601030668:0;docker-compose up
+: 1601030762:0;docker-compose up
+: 1601030930:0;materials/docker
+: 1601030937:0;docker stop materials
+: 1601030943:0;cd ..
+: 1601030944:0;cd ..
+: 1601030958:0;mvn clean install -DskipTests
+: 1601031035:0;materials/docker
+: 1601031042:0;docker-compose build --no-cache
+: 1601031052:0;docker start materials
+: 1601031057:0;docker ps -a
+: 1601031992:0;docker-compose up
+: 1601032218:0;docker-compose down 
+: 1601032230:0;docker image prune -a
+: 1601032244:0;cd ..
+: 1601032246:0;cd ..
+: 1601032252:0;mvn clean install -DskipTests
+: 1601032305:0;docker-compose up
+: 1601033658:0;materials/docker
+: 1601033667:0;docker-compose down 
+: 1601033699:0;git fetch
+: 1601033912:0;mvn clean install -DskipTests
+: 1601033946:0;docker-compose Dup
+: 1601033955:0;docker-compose up
+: 1601034013:0;docker-compose build --no-cache
+: 1601034019:0;docker-compose up
+: 1601034169:0;docker-compose down
+: 1601034187:0;cd .. 
+: 1601034190:0;cd ..
+: 1601034201:0;./redeploy-payara-service.sh
+: 1601034302:0;docker-compose down
+: 1601034346:0;./redeploy-payara-service.sh
+: 1601034348:0;      String userId =  config.getValue("userId", String.class);
+: 1601034349:0;        purchaseService(userId);
+: 1601034349:0;        final Properties properties = new Properties();\
+        try {
+: 1601034349:0;            properties.load(this.getClass().getClassLoader().getResourceAsStream("META-INF/microprofile-config.properties"));
+: 1601034349:0;            LOG.error("Properties could not be loaded", e);
+: 1601034435:0;docker-compose down
+: 1601034450:0;infrastructure/docker/
+: 1601034452:0;docker-compose down
+: 1601034466:0;materials/docker
+: 1601034468:0;docker-compose down
+: 1601034489:0;docker-compose down
+: 1601034498:0;docker image prune -a
+: 1601034509:0;docker system prune
+: 1601034523:0;docker-compose up
+: 1601034845:0;docker-compose up
+: 1601037141:0;docker image prune -a
+: 1601037149:0;cd ..
+: 1601037150:0;cd .,.
+: 1601037151:0;cd..
+: 1601037154:0;cd ..
+: 1601037158:0;mvn clean install -DskipTests
+: 1601037179:0;materials/docker
+: 1601037184:0;docker-compose up
+: 1601037293:0;docker-compose donw
+: 1601037299:0;docker-compose down
+: 1601037338:0;mvn clean install -DskipTests
+: 1601037365:0;docker-compose build --no-cache
+: 1601037373:0;docker-compose up
+: 1601040671:0;./redeploy-payara-service.sh
+: 1601042061:0;./redeploy-payara-service.sh
+: 1601042177:0;./redeploy-payara-service.sh
+: 1601042336:0;./redeploy-payara-service.sh
+: 1601047368:0;docker stop materials
+: 1601155847:0;docker stop materials
+: 1601156220:0;docker ps -a 
+: 1601157211:0;mvn clean install -DskipTests
+: 1601157237:0;mvn clean install -DskipTests
+: 1601164791:0;mvn clean install -DskipTests
+: 1601165070:0;materials/docker
+: 1601165076:0;docker-compose up
+: 1601207932:0;cd ..
+: 1601207933:0;cd ..
+: 1601207936:0;./redeploy-payara-service.sh
+: 1601208414:0;cd ..
+: 1601208417:0;cd ..
+: 1601208423:0;./redeploy-payara-service.sh
+: 1601216457:0;atom .zshrc
+: 1601217037:0;/usr/share/plugins/
+: 1601217050:0;/usr/share
+: 1601217059:0;mkdir plugings
+: 1601217070:0;which zsh
+: 1601217078:0;cd ..
+: 1601217085:0;bin
+: 1601217088:0;ls -a 
+: 1601217092:0;zsh
+: 1601217097:0;zsh/
+: 1601217121:0;~
+: 1601217125:0;LS -A
+: 1601217129:0;ls -a 
+: 1601217138:0;Apps
+: 1601217140:0;ls -a 
+: 1601217148:0;mkdir plugins
+: 1601217151:0;ls -a 
+: 1601217245:0;rename plugins zshplugins
+: 1601217261:0;mv plugins zshplugins
+: 1601217263:0;ls -a 
+: 1601217271:0;zshplugins
+: 1601217272:0;ls -a 
+: 1601217341:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+: 1601217347:0; ls -a 
+: 1601217355:0;zsh-syntax-highlighting
+: 1601217357:0;ls -a 
+: 1601217454:0;source .zshrc
+: 1601217467:0;home
+: 1601217473:0;~
+: 1601217477:0;source .zshrc
+: 1601217706:0;~/Apps/zshplugins/
+: 1601217729:0;git clone https://github.com/marlonrichert/zsh-autocomplete.git
+: 1601217740:0;~
+: 1601217744:0;source .zshrc
+: 1601217782:0;.config
+: 1601217790:0;atom aliasrc
+: 1601217949:0;source .zshrc
+: 1601217997:0;cd ..
+: 1601217998:0;cd ..
+: 1601218012:0;atom .zshrc
+: 1601218062:0;dcu
+: 1601218076:0;materials/docker
+: 1601218079:0;dcu
+: 1601218088:0;source .zshrc
+: 1601218283:0;~
+: 1601218287:0;source .zshrc
+: 1601218307:0;materials/docker
+: 1601218311:0;dcd
+: 1601218322:0;materials/docker
+: 1601218344:0;ls -a 
+: 1601218351:0;Apps
+: 1601218353:0;ls -a 
+: 1601218358:0;cd ..
+: 1601218360:0;IdeaProjectseaProjects
+: 1601218368:0;IdeaProjects
+: 1601218371:0;ls a- 
+: 1601218374:0;ls -a 
+: 1601218390:0;materials/dockers
+: 1601218445:0;materials/dockers
+: 1601218450:0;materials/docker
+: 1601218476:0;~
+: 1601218480:0;source .zshrc
+: 1601218489:0;materials/docker
+: 1601218495:0;dcd
+: 1601218539:0;docker ps -a 
+: 1601218598:0;docker stop $(docker ps -a -q)
+: 1601239258:0;dcu
+: 1601239278:0;mvn clean install -DskipTests
+: 1601239334:0;materials/docker
+: 1601239345:0;dcbnc
+: 1601239357:0;dcu
+: 1601240108:0;cd ..
+: 1601240110:0;cd ..
+: 1601240114:0;redeploy-payara-service.sh
+: 1601240127:0;./redeploy-payara-service.sh
+: 1601277002:0;docker-compose down
+: 1601277022:0;mvn clean install -DskipTests
+: 1601277038:0;./redeploy-payara-service.sh
+: 1601277284:0;./redeploy-payara-service.sh
+: 1601278367:0;./redeploy-payara-service.sh
+: 1601377258:0;git fetch
+: 1601377295:0;git checkout origin/feature/unit-test-version
+: 1601377375:0;infrastructure/docker/
+: 1601377380:0;dcu
+: 1601378302:0;dcbnc
+: 1601378307:0;materials/docker
+: 1601378311:0;dcbnc
+: 1601378318:0;dcu
+: 1601626283:0;dcu
+: 1601627809:0;cd ..
+: 1601627811:0;cd ..
+: 1601627813:0;./redeploy-payara-service.sh
+: 1601627944:0;./redeploy-payara-service.sh
+: 1601629705:0;./redeploy-payara-service.sh
+: 1601632311:0;./redeploy-payara-service.sh
+: 1601632517:0;./redeploy-payara-service.sh
+: 1605110046:0;echo $JAVA_HOME

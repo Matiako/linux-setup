@@ -1,0 +1,4 @@
+alias intlj='/home/vagrant/Apps/intellij/idea-IU-201.8743.12/bin/idea.sh'
+alias dcu='docker-compose up'
+alias dcd='docker-compose down'
+alias dcbnc='docker-compose build --no-cache'
